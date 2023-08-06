@@ -1,0 +1,16 @@
+{
+  "overlays": [
+    {
+      "src": "image1.jpg",
+      "link": "https://www.w3schools.com",
+      "start": 10,
+      "end": 20
+    },
+    {
+      "src": "image2.jpg",
+      "link": "https://www.stackoverflow.com",
+      "start": 30,
+      "end": 40
+    }
+  ]
+}
