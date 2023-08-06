@@ -1,5 +1,5 @@
       const video = document.getElementById('myVideo');
-
+console.log("successsss");
       // Fetch data from JSON file and populate the HTML
       fetch('data.json')
         .then(response => response.json())
